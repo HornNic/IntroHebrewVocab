@@ -1,7 +1,7 @@
 # IntroHebrewVocab
 Vocabulary by Chapter of Introduction to Hebrew by William Fullilove
 
-0.2 updates to ch. 11
+1.0 includes all chapters
 
 These csv files is intended to assist in making online flash cards for systems like Anki.
 
